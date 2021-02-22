@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: erongi/sdte-lab-6:v1
+          tags: erongi/sdte-lab-6:latest
           push: true
